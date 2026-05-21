@@ -15,6 +15,8 @@ Build an end-to-end AI agent application — from provisioning Azure resources t
 | 03 | [Create Resources & First Agent](03_create_resources_and_first_agent.ipynb) | Foundry resources via Azure CLI, model deployment, RBAC, agent creation, multi-turn conversations, enterprise patterns (SharePoint + MCP + Evaluation) |
 | 04 | [Agent Lifecycle, Tools & Identity](04_agent_lifecycle_tools_and_identity.ipynb) | 8-step lifecycle, agent types (Prompt/Workflow/Hosted), identity & OAuth, RAG & vector stores, tool catalog, Azure AI Search, Code Interpreter, function calling |
 | 05 | [Advanced Tools & Integrations](05_advanced_tools_and_integrations.ipynb) | Advanced tooling, MCP servers, OpenAPI integration, multi-agent orchestration, production monitoring |
+| 06 | [Hosted Agents, Publishing & A2A](06_hosted_agents_publishing_and_a2a.ipynb) | Containerized agent deployment, session management, traffic routing, publish to M365/Teams, Agent 365, Agent-to-Agent protocol |
+| 07 | [Observability, Governance & Migration](07_observability_governance_and_migration.ipynb) | OpenTelemetry tracing, Application Insights, framework integrations (LangChain/LangGraph/OpenAI SDK), Prompt Optimizer, monitoring dashboard, continuous evaluation, Agent 365 integration, capability hosts, quotas & limits, RBAC permissions, MCP governance via AI Gateway, migration guides (Assistants API, hosted preview, agent applications) |
 
 ## Architecture
 
