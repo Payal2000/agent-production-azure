@@ -17,6 +17,7 @@ Build an end-to-end AI agent application — from provisioning Azure resources t
 | 05 | [Advanced Tools & Integrations](05_advanced_tools_and_integrations.ipynb) | Advanced tooling, MCP servers, OpenAPI integration, multi-agent orchestration, production monitoring |
 | 06 | [Hosted Agents, Publishing & A2A](06_hosted_agents_publishing_and_a2a.ipynb) | Containerized agent deployment, session management, traffic routing, publish to M365/Teams, Agent 365, Agent-to-Agent protocol |
 | 07 | [Observability, Governance & Migration](07_observability_governance_and_migration.ipynb) | OpenTelemetry tracing, Application Insights, framework integrations (LangChain/LangGraph/OpenAI SDK), Prompt Optimizer, monitoring dashboard, continuous evaluation, Agent 365 integration, capability hosts, quotas & limits, RBAC permissions, MCP governance via AI Gateway, migration guides (Assistants API, hosted preview, agent applications) |
+| 08 | [Foundry Models & Model Selection](08_foundry_models_and_model_selection.ipynb) | 1,900+ model catalog, models sold by Azure (GPT-5/4.1, o-series, DeepSeek, xAI, Meta), partner models (Claude, Phi, Llama, Mistral, Cohere), deployment types (serverless, managed compute, provisioned), model choice guide (GPT-5 vs GPT-4.1), benchmarks & leaderboards (quality, safety, cost, throughput), Foundry playgrounds (Model, Agent, Video, Images), model upgrades with Ask AI, Azure Government models |
 
 ## Architecture
 
